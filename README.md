@@ -1,6 +1,11 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dozer1991&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dozer1991&layout=donu&theme=radicalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dozer1991&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dozer1991&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **Dozer1991/Dozer1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
